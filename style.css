@@ -1,0 +1,54 @@
+.ul{
+ display: flex;
+ gap: 70px;
+ list-style: none;
+ text-decoration: none;
+}
+.hr{
+text-decoration: none;
+}
+.hr:hover{
+color: orange;
+}
+.nav{
+display: flex;
+justify-content: center;
+padding: 90px;
+}
+.centre{
+    width: 800px;
+    height: 350px;
+    background-color: rgb(214, 212, 209);
+    margin-top:90px ;
+    margin-left:-750px ;
+}
+.jj{
+    margin-top: -390px;
+    margin-left:-20px;
+}
+.jk{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.text{
+    font-size: 50px;
+     position: absolute;
+     top: 160px;
+     left:410px ;
+    
+}
+.area{
+margin-top:-90px ;
+margin-left:88px ;
+background-color: rgb(214, 212, 209);
+border: none;
+/* font-size: 30px; */
+
+}
+.button{
+    width: 120px;
+    height: 50px;
+    border-radius: 10px 10px 10px 10px;
+    margin-top:20px ;
+    margin-left:650px ;
+}
